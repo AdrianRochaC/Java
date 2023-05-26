@@ -6,7 +6,7 @@ public class Prog50
     public static void main (String args[])throws IOException
     {
         int a,b,c,d,r;
-        float n,f;
+        double n,f;
         a=0;b=0;c=0;d=0;r=0;n=0;f=1;
         String valor;
         BufferedReader Entrada=new BufferedReader (new InputStreamReader(System.in));
